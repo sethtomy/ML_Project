@@ -11,7 +11,7 @@ Classification.ipynb Instructions
 
 
 
-Missing Value Estimation.ipynb
+Missing Value Estimation.ipynb Instructions
 
 1.) Place Dataset with missing values into the directory "datasets/MissingValueEstimation/"
     labeled as MissingData1.txt,MissingData2.txt, MissingData3.txt. Alternatively, a file
